@@ -9,11 +9,11 @@ I learned that I have a lot more to learn in HTML and CSS and that Google is a v
 
 ## Screenshot
 
-On Github.
+![alt text](portfolio.PNG)
 
 ## Link to deployed site
 
-On Github.
+
 
 ## Table of Contents (Optional)
 
