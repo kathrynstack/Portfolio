@@ -2,7 +2,7 @@
     box-sizing: border-box;
     padding: 0px;
     margin: 0px;
-    background-color: #89cff0;
+    background-color: #f8db90e2;
     font-size: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -12,12 +12,14 @@
     margin-right: 20px;
     margin-top: 5px;
     float: right;
+    
 }
 
 
 .header div ul li {
     display: inline-block;
     margin-left: 50px;
+    
 }
 
 .header h1 {
@@ -28,15 +30,15 @@
     padding-left: 50px;
     font-size: 30px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: rgba(127, 164, 245, 0.788);
+    background-color: #94AF9F;
     color: white;
 }
 
 .main-photo {
-    height: 500px;
+    height: 350px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url(1574868303265.jfif);
+    background-image: url(White\ Chamomile\ Facebook\ Cover\ Summer\ Photo\ Collage\ \(1640\ ×\ 500\ px\).png);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -47,7 +49,6 @@
     bottom: 8px;
     right: 16px;
     font-size: 30px;
-    background-color: rgba(127, 164, 245, 0.788);
     color: white;
 }
 
@@ -95,7 +96,7 @@
     margin-right: 80px;
 }
 
-.more-work-img {
+.sip-img {
     display: flex;
     position: absolute;
     margin-left: 2%;
@@ -105,5 +106,16 @@
     height: 200px;
     border-style: dashed;
     
+}
+
+.petfolio-img {
+    display: flex;
+    position: absolute;
+    margin-left: 20%;
+    margin-bottom: 60%;
+    margin-top: 10px;
+    width: 350px;
+    height: 200px;
+    border-style: dashed;
 }
 
