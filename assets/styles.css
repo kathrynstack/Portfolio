@@ -109,9 +109,8 @@
 }
 
 .petfolio-img {
-    display: flex;
     position: absolute;
-    margin-left: 20%;
+    margin-left: -4%;
     margin-bottom: 60%;
     margin-top: 10px;
     width: 350px;
