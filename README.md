@@ -9,7 +9,7 @@ I learned that I have a lot more to learn in HTML and CSS and that Google is a v
 
 ## Screenshot
 
-![alt text]<img width="960" alt="portfolio-updated" src="https://github.com/kathrynstack/Portfolio/assets/122328070/0bb14d03-2656-475a-925b-3cf4a66255cb">
+![alt text] <img width="960" alt="portfolio-updated" src="https://github.com/kathrynstack/Portfolio/assets/122328070/0bb14d03-2656-475a-925b-3cf4a66255cb">
 
 ## Link to deployed site
 
