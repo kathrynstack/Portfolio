@@ -110,7 +110,7 @@
 
 .petfolio-img {
     position: relative;
-    margin-left: -15%;
+   margin-left: 20%;
     margin-bottom: 60%;
     margin-top: 10px;
     width: 350px;
@@ -118,3 +118,12 @@
     border-style: dashed;
 }
 
+.deadfeed-img {
+    position: relative;
+   
+    margin-bottom: 60%;
+    margin-top: 10px;
+    width: 350px;
+    height: 200px;
+    border-style: dashed;
+}
