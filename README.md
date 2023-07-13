@@ -13,7 +13,7 @@ I learned that I have a lot more to learn in HTML and CSS and that Google is a v
 
 ## Link to deployed site
 
-[Deployed Porfolio](https://kathrynstack.github.io/Portfolio/)
+[Deployed Porfolio]([[https://kathrynstack.github.io/Portfolio/]](https://kathrynstack.github.io/Portfolio/))
 
 ## Table of Contents (Optional)
 
